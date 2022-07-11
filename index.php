@@ -11,5 +11,8 @@ include 'includes/header.php' ?>
    echo 'david';
    ?>
    <button type="button" class="btn btn-dark">CLICK ME!</button>
+   <button type="button" class="btn btn-danger">CLICK ME!</button>
+   <button type="button" class="btn btn-success">CLICK ME!</button>
+
    
 <?php require 'includes/footer.php' ?>
